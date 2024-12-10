@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Abdullah Siddique
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=600&lines=Software+Developer+%7C+Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=600&lines=Software+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🌈 About Me
