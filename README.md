@@ -78,7 +78,7 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 ## 🌱 What I'm Learning
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A3E8&center=true&width=600&lines=Advanced+Machine+Learning;Cloud+Native+Technologies;Blockchain+Development" alt="Learning Path" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A3E8&center=true&width=600&lines=Advanced+Machine+Learning;Cloud+Native+Technologies;Big+Data+Analysis" alt="Learning Path" />
 </div>
 
 ## 📊 Coding Activity
