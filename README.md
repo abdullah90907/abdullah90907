@@ -68,8 +68,12 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 
 | Project Name | Description | Technologies |
 |-------------|-------------|--------------|
-| Project 1 | Brief description | React, Node.js |
-| Project 2 | Another cool project | Python, ML |
+| Project 1 | **LungLens** | StreamLit, Grok API |
+| Project 2 | **EmergencyCore** | Python, ML , Streamlit |
+| Project 3 | **LangMaster Pro** | Llama API, ML , Streamlit |
+| Project 4 | **Compass AI** | Llama 3.1, Streamlit  |
+| Project 5 | **Senu Startup** | Python,Flask, Phoenix  |
+| Project 6 | **ThinkQuest** | IBM WatsonX Granite, Python, Streamlit |
 
 ## 🌱 What I'm Learning
 
