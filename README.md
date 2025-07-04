@@ -60,9 +60,9 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 ## 🏆 Achievements & Highlights
 
 - 🥇 Hackathon Winner
-- 🌟 Open Source Contributor
-- 💡 Multiple Tech Innovation Awards
-- 📚 Technical Blog Writer
+- 🌟 Section Leader @Stanford CIP 2025
+- 💡 Harvard csx50 Puzzle Winner 2025
+- 🧩 Problem Solver
 
 ## 🚧 Current Projects
 
@@ -98,11 +98,11 @@ Others         █░░░░░░░░░░░░  4.1%
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdullah-siddique-682734263/">
+  <a href="https://www.linkedin.com/in/mr-abdullah-siddique/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://abdullah-siddique-dev.netlify.app/">
+  <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="mailto:abdullahsiddique773@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
