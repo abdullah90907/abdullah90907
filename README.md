@@ -11,7 +11,7 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 ## 🚀 Quick Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullah90907&theme=radical" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah90907&theme=default" alt="GitHub Streak" />
 </div>
 
 ## 💻 Technology Stack
@@ -49,13 +49,13 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 ## 🔥 GitHub Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah90907&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah90907&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah90907&theme=default&utcOffset=8" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah90907&theme=default"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah90907&theme=radical" alt="Contribution Streak" />
-</div>
+</div> -->
 
 ## 🏆 Achievements & Highlights
 
