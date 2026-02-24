@@ -10,7 +10,7 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 
 ## 🚀 Quick Stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdullah90907&theme=radical&column=7&margin-w=15&margin-h=15)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdullah90907&theme=radical)
 
 ## 💻 Technology Stack
 
