@@ -10,7 +10,9 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 
 ## 🚀 Quick Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdullah90907&theme=radical)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullah90907&theme=radical" alt="GitHub Streak" />
+</div>
 
 ## 💻 Technology Stack
 
