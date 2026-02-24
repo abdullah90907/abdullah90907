@@ -11,7 +11,7 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 ## 🚀 Quick Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah90907&theme=default" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah90907&theme=algolia" />
 </div>
 
 ## 💻 Technology Stack
@@ -49,8 +49,8 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 ## 🔥 GitHub Performance
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah90907&theme=default&utcOffset=8" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah90907&theme=default"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah90907&theme=algolia" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah90907&theme=algolia&utcOffset=8"/>
 </div>
 
 <!-- <div align="center">
