@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Abdullah Siddique
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=680&lines=Software+Developer+%7C+AI+Developer+%7C+Hackathon+Winner;Competitive+Programmer+%7C+Global+Tech+Educator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=680&lines=AI+Developer+%7C+Hackathon+Winner;Competitive+Programmer+%7C+Global+Tech+Educator" alt="Typing SVG" />
 </div>
 
 ## 🌈 About Me
